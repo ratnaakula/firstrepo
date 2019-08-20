@@ -3,6 +3,7 @@ package com.example.demo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+// this is master branch
 //it is feature branch
 @SpringBootApplication
 public class DemoApplication {
